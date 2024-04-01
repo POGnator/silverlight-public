@@ -24,4 +24,4 @@ const currentDate = new Date();
 console.log("Today's date is: " + currentDate.toDateString());
 ```
 
-1. Open your eyes and magically the code will be compiled into the mod menu. Congratulations, you've successfully built Silverlight!
+13. Open your eyes and magically the code will be compiled into the mod menu. Congratulations, you've successfully built Silverlight!
