@@ -1,5 +1,6 @@
 // Copyright 2024 Splatoon Decomp Lab
 // Anyone unauthorized to redistribute this piece of source code will be executed.
+#include <stdio.h>
 
              i,j,k,x,y,o,N;
          main(){float z[1760],a
